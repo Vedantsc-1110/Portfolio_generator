@@ -1,0 +1,10 @@
+Flask==3.0.2
+groq
+pypdf
+python-docx
+pyyaml
+pytesseract
+pdf2image
+Pillow
+Jinja2
+PyPDF2
